@@ -1,0 +1,1580 @@
+2026-05-30T16:55:33.905249 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T16:55:33.908266 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-05-30T16:59:23.414037 [INFO] [MOTOR] Técnico 'Cesar Lara Mendez' desactivado.
+2026-05-30T16:59:23.885054 [INFO] [MOTOR] Técnico 'Gabriel Álvarez' desactivado.
+2026-05-30T16:59:24.436057 [INFO] [MOTOR] Técnico 'Jorge Tec CERVANTES' desactivado.
+2026-05-30T16:59:24.973688 [INFO] [MOTOR] Técnico 'TEC CESAR HERNANDEZ SILAO' desactivado.
+2026-05-30T16:59:25.453929 [INFO] [MOTOR] Técnico 'FER SILAO' desactivado.
+2026-05-30T17:01:51.131568 [INFO] [MOTOR] Técnico agregado: DANIEL ALVRADO MORALES
+2026-05-30T17:01:51.134568 [INFO] Técnico agregado desde la UI.
+2026-05-30T17:01:52.695841 [INFO] [MOTOR] Técnico 'Mario Aguirre' desactivado.
+2026-05-30T17:01:55.563139 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T17:02:00.652469 [ERROR] [BOT] No hay página activa. Inicia el bot primero.
+2026-05-30T17:02:03.090392 [ERROR] [BOT] No hay página activa. Inicia el bot primero.
+2026-05-30T17:02:05.390370 [ERROR] [BOT] No hay página activa. Inicia el bot primero.
+2026-05-30T17:02:08.044482 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T17:03:28.415536 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T17:03:28.418053 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T17:03:32.698654 [INFO] [FILE_WATCHER] Carpeta creada: C:\Users\monar\OneDrive\Escritorio\ordenes
+2026-05-30T17:03:32.702704 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-30T17:03:32.703704 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-30T17:03:49.735128 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T17:03:49.736636 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-05-30T17:03:50.375676 [INFO] Procesando mensaje de 'Jorge Tec CERVANTES'
+2026-05-30T17:03:59.315947 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:04:20.435477 [WARN] Intento 1/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-05-30T17:04:37.443870 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:04:51.003658 [WARN] Intento 2/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-05-30T17:05:15.542992 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:05:22.042627 [WARN] Intento 3/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-05-30T17:05:23.533177 [ERROR] Error permanente: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-05-30T17:05:53.661646 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:06:31.770427 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:07:09.908348 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:07:48.027694 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:08:26.126283 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:09:04.234903 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:09:42.323492 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:10:20.432046 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:10:58.530544 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:11:36.639327 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:12:07.249004 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T17:12:07.251005 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-05-30T17:12:07.608733 [INFO] Procesando mensaje de 'Jorge Tec CERVANTES'
+2026-05-30T17:12:14.778033 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:12:52.946643 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:13:31.191232 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:14:09.590042 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:14:47.762461 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:15:25.941189 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:16:04.070006 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:16:42.178230 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:17:20.321965 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:17:58.486524 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:18:36.609724 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:19:14.783060 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:19:52.907994 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:20:31.087669 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:21:09.233225 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:21:47.407940 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:22:25.565757 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:23:03.694619 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:23:41.859500 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:24:20.048277 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:24:58.183234 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:25:36.338806 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:26:14.477734 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:26:52.599469 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:27:30.802112 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:28:08.933810 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:28:47.042939 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:29:25.151105 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:29:32.026113 [INFO] [FILE_WATCHER] Archivo nuevo detectado: CESAR MAURICIO HERNANDEZ QUIJAS.pdf
+2026-05-30T17:29:32.028121 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T17:29:32.820793 [INFO] Procesando mensaje de 'Gabriel Álvarez'
+2026-05-30T17:29:32.822802 [INFO] Orden por archivo: C:\Users\monar\OneDrive\Escritorio\ordenes\CESAR MAURICIO HERNANDEZ QUIJAS.pdf
+2026-05-30T17:29:56.442060 [WARN] [FILE_WATCHER] Observador detenido.
+2026-05-30T17:29:56.445063 [INFO] Watchdog detenido.
+2026-05-30T17:29:57.729941 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-05-30T17:29:57.740352 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T17:30:02.869401 [WARN] Intento 1/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-05-30T17:30:04.229085 [WARN] Deteniendo bot desde la interfaz...
+2026-05-30T17:30:04.231098 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T17:30:04.429405 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-05-30T17:30:04.619594 [WARN] Bot detenido (contexto cerrado).
+2026-05-30T17:30:05.441087 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-05-30T17:30:06.940579 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-05-30T17:31:25.168441 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-05-30T17:31:25.170976 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-05-30T17:31:28.227335 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T17:31:30.930959 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T17:31:37.532330 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T17:31:37.540727 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T17:32:07.600278 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:32:45.728966 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:33:23.933375 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:34:02.155744 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:34:40.281829 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:35:18.401138 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:35:56.529850 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:36:34.775441 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:37:13.058461 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list-search\"]")
+
+2026-05-30T17:39:00.422811 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-05-30T17:39:00.425805 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-05-30T17:39:04.053389 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T17:39:06.683058 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T17:39:15.887139 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T17:39:15.892200 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T17:39:16.222089 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:39:24.511956 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:39:32.821540 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:39:41.121888 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:39:49.420776 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:39:57.827699 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:06.140294 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:14.603835 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:23.039668 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:31.339660 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:39.724756 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:48.127117 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:40:56.419108 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:41:04.708818 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:41:13.007503 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:41:21.374052 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:41:29.774233 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:41:38.152152 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-05-30T17:56:31.676484 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T17:56:34.878717 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T17:56:55.189022 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-05-30T17:56:55.190537 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-05-30T17:56:59.222539 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T17:56:59.228165 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T17:56:59.848200 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:57:08.407829 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:57:16.997822 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:57:25.557583 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:57:34.207181 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:57:42.836588 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:57:51.535762 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:03.286412 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:11.875477 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:20.425365 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:28.955508 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:37.524890 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:46.063948 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:58:54.645053 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:59:03.293257 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:59:09.602611 [WARN] Deteniendo bot desde la interfaz...
+2026-05-30T17:59:09.613717 [INFO] [WATCHER] Ciclo cancelado.
+2026-05-30T17:59:09.623750 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T17:59:09.983683 [WARN] Bot detenido (contexto cerrado).
+2026-05-30T17:59:22.563874 [WARN] [FILE_WATCHER] Observador detenido.
+2026-05-30T17:59:22.565299 [INFO] Watchdog detenido.
+2026-05-30T17:59:23.746011 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-05-30T17:59:23.749011 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-05-30T17:59:25.257236 [WARN] El bot no está activo. Inicia el bot antes de iniciar la escucha.
+2026-05-30T17:59:27.224861 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T17:59:29.622326 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T17:59:37.322287 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T17:59:37.332296 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T17:59:37.853031 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:59:46.392146 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T17:59:54.932479 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T18:00:03.491950 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T18:00:12.050809 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': 'Locator' object has no attribute 'triple_click'
+2026-05-30T18:00:13.727610 [WARN] Deteniendo bot desde la interfaz...
+2026-05-30T18:00:13.740731 [INFO] [WATCHER] Ciclo cancelado.
+2026-05-30T18:00:13.751245 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T18:00:14.071456 [WARN] Bot detenido (contexto cerrado).
+2026-05-30T18:00:22.063765 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T18:00:24.483980 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T18:00:27.109435 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-30T18:00:27.110438 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-30T18:00:27.826315 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T18:00:27.833752 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T18:00:54.976803 [INFO] [WATCHER] Nuevo mensaje en 'Cel Negro (Tú)': 2
+
+Detalles de actividad
+
+JUAN ESPINOSA LUNA, 05/29/26
+
+Tipo...
+2026-05-30T18:00:54.980316 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:00:55.662590 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-05-30T18:00:55.663590 [INFO] Mensaje ignorado (no activa plantilla)
+2026-05-30T18:00:56.498638 [WARN] [FILE_WATCHER] Observador detenido.
+2026-05-30T18:00:56.499634 [INFO] Watchdog detenido.
+2026-05-30T18:00:57.302960 [INFO] [WATCHER] Ciclo cancelado.
+2026-05-30T18:00:57.312496 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T18:01:03.058169 [WARN] Deteniendo bot desde la interfaz...
+2026-05-30T18:01:03.062249 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T18:01:03.391704 [WARN] Bot detenido (contexto cerrado).
+2026-05-30T18:01:10.821253 [INFO] [MOTOR] Técnico eliminado: Cel Negro (Tú)
+2026-05-30T18:01:10.822248 [INFO] Técnico 'Cel Negro (Tú)' eliminado desde la UI.
+2026-05-30T18:01:44.698442 [INFO] [MOTOR] Técnico agregado: DANIEL ALVARADO MORALES
+2026-05-30T18:01:44.701363 [INFO] Técnico agregado desde la UI.
+2026-05-30T18:01:46.916683 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T18:01:49.270319 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T18:01:52.920867 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-30T18:01:52.922873 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-30T18:01:55.780683 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T18:01:55.790709 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T18:02:08.810346 [WARN] [WATCHER] No se pudo abrir chat 'Daniel At&t (Tú)': Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[data-testid=\"cell-frame-container\"]").first
+
+2026-05-30T18:02:30.358602 [WARN] [WATCHER] No se pudo abrir chat 'Daniel At&t (Tú)': Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[data-testid=\"cell-frame-container\"]").first
+
+2026-05-30T18:02:51.688392 [WARN] [WATCHER] No se pudo abrir chat 'Daniel At&t (Tú)': Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[data-testid=\"cell-frame-container\"]").first
+
+2026-05-30T18:03:13.277923 [WARN] [WATCHER] No se pudo abrir chat 'Daniel At&t (Tú)': Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[data-testid=\"cell-frame-container\"]").first
+
+2026-05-30T18:03:34.989978 [WARN] [WATCHER] No se pudo abrir chat 'Daniel At&t (Tú)': Locator.click: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("div[data-testid=\"cell-frame-container\"]").first
+
+2026-05-30T18:05:03.768984 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T18:05:06.202149 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T18:07:21.584908 [INFO] [MOTOR] Técnico agregado: WERFWEFWE
+2026-05-30T18:07:21.588304 [INFO] Técnico agregado desde la UI.
+2026-05-30T18:07:24.906282 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' desactivado.
+2026-05-30T18:07:27.202955 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T18:07:27.204063 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T18:07:27.256753 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:07:34.635872 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-30T18:07:34.637881 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-30T18:07:35.354884 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:07:39.647220 [WARN] [FILE_WATCHER] Observador detenido.
+2026-05-30T18:07:39.649624 [INFO] Watchdog detenido.
+2026-05-30T18:07:43.454782 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:07:51.564399 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:07:52.065145 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-05-30T18:07:52.066656 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-05-30T18:07:59.655080 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:07.764424 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:15.854726 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:23.953131 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:32.063807 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:40.153434 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:48.263818 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:08:56.385458 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:09:04.511655 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:09:12.684390 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:09:20.811896 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-05-30T18:09:26.231759 [INFO] [WATCHER] Ciclo cancelado.
+2026-05-30T18:09:26.241361 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T18:09:30.967985 [WARN] Deteniendo bot desde la interfaz...
+2026-05-30T18:09:30.974995 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T18:09:30.975993 [WARN] Bot detenido (contexto cerrado).
+2026-05-30T18:09:33.535802 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T18:09:36.601090 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T18:21:03.822298 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T18:21:06.226426 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T18:21:12.390292 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-30T18:21:12.391800 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-30T18:21:15.166129 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T18:21:15.175649 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-30T18:21:45.734465 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar p...
+2026-05-30T18:21:45.736472 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:21:46.353870 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:21:58.753818 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': 2
+
+Detalles de actividad
+
+JUAN ESPINOSA LUNA, 05/29/26
+
+Tipo...
+2026-05-30T18:21:58.755820 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:21:59.353637 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:22:24.772176 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': PLANTILLA DE OBJECIÓN
+
+
+
+ ÁREA: LEON
+
+ COPE:
+
+ OS:
+
+ TELÉFON...
+2026-05-30T18:22:24.774691 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:22:25.352188 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:23:16.211748 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': 2
+
+Detalles de actividad
+
+JUAN ESPINOSA LUNA, 05/29/26
+
+Tipo...
+2026-05-30T18:23:16.213269 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:23:16.540495 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:23:16.541496 [INFO] Plantilla completada para 'WERFWEFWE' | Folio: 2
+
+Detalles de actividad
+
+JUAN ESPINOSA LUNA, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Orden de Trabajo
+
+QROO071369635
+
+ID de actividad
+
+35079318
+
+Estado de actividad
+
+INICIADA
+
+Tipo de actividad
+
+Alta
+
+Hora de asignación de actividad
+
+05/29/26 06:01
+
+Fecha
+
+05/29/26
+
+Fin de SLA
+
+05/29/26 14:36
+
+CITA HOY
+
+Estado de actividad
+
+INICIADA
+
+Posición en la ruta
+
+1
+
+Clave concesionario
+
+OPERADOR
+
+Descripcion concesionario
+
+0
+
+Inicio – Fin
+
+07:56 - 10:02
+
+Duración
+
+2 horas 6 minutos
+
+Nombre
+
+TORRES ARRIAGA MARIA ELENA
+
+Dirección
+
+CAL NTRA. SENORA DE LOS DOLORES 70 GUADALUPE
+
+Subnumero
+
+70
+
+Manzana
+
+Ciudad
+
+SILAO
+
+Estado
+
+GUANAJUATO
+
+Código postal
+
+36142
+
+Teléfono
+
+4726906482
+
+Teléfono móvil
+
+4721401354
+
+Correo electrónico
+
+luciaarrigalino@gmail.com
+
+Nombre Contacto
+
+TORRES ARRIAGA MARIA ELENA
+
+Contacto Adicional
+
+4721879258
+2026-05-30T18:23:42.669450 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar p...
+2026-05-30T18:23:42.671452 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:23:43.339443 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:23:43.340951 [INFO] Plantilla completada para 'WERFWEFWE' | Folio: 2
+
+Detalles de actividad
+
+JUAN ESPINOSA LUNA, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Orden de Trabajo
+
+QROO071369635
+
+ID de actividad
+
+35079318
+
+Estado de actividad
+
+INICIADA
+
+Tipo de actividad
+
+Alta
+
+Hora de asignación de actividad
+
+05/29/26 06:01
+
+Fecha
+
+05/29/26
+
+Fin de SLA
+
+05/29/26 14:36
+
+CITA HOY
+
+Estado de actividad
+
+INICIADA
+
+Posición en la ruta
+
+1
+
+Clave concesionario
+
+OPERADOR
+
+Descripcion concesionario
+
+0
+
+Inicio – Fin
+
+07:56 - 10:02
+
+Duración
+
+2 horas 6 minutos
+
+Nombre
+
+TORRES ARRIAGA MARIA ELENA
+
+Dirección
+
+CAL NTRA. SENORA DE LOS DOLORES 70 GUADALUPE
+
+Subnumero
+
+70
+
+Manzana
+
+Ciudad
+
+SILAO
+
+Estado
+
+GUANAJUATO
+
+Código postal
+
+36142
+
+Teléfono
+
+4726906482
+
+Teléfono móvil
+
+4721401354
+
+Correo electrónico
+
+luciaarrigalino@gmail.com
+
+Nombre Contacto
+
+TORRES ARRIAGA MARIA ELENA
+
+Contacto Adicional
+
+4721879258
+2026-05-30T18:23:58.829762 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': 2
+
+Detalles de actividad
+
+JUAN ESPINOSA LUNA, 05/29/26
+
+Tipo...
+2026-05-30T18:23:58.831766 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:23:59.599780 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:23:59.601285 [INFO] Mensaje ignorado (no activa plantilla)
+2026-05-30T18:24:16.388302 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': 2 fotos...
+2026-05-30T18:24:16.390813 [INFO] Mensaje agregado a la cola. Total: 1
+2026-05-30T18:24:16.658513 [INFO] Procesando mensaje de 'Anonimus'
+2026-05-30T18:24:16.659944 [INFO] Mensaje ignorado (no activa plantilla)
+2026-05-30T18:24:21.538301 [INFO] [WATCHER] Ciclo cancelado.
+2026-05-30T18:24:21.549242 [INFO] [BOT] Escucha de chats detenida.
+2026-05-30T18:55:40.172910 [INFO] Iniciando bot desde la interfaz...
+2026-05-30T18:55:40.625149 [ERROR] [BOT] No hay página activa. Inicia el bot primero.
+2026-05-30T18:55:42.605776 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-30T18:55:46.021187 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-30T18:55:46.023187 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-30T18:55:47.015010 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-30T18:55:47.024726 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-31T09:39:48.983344 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Keyboard.press: Target page, context or browser has been closed
+2026-05-31T09:39:54.753988 [INFO] [WATCHER] Ciclo cancelado.
+2026-05-31T09:39:54.764754 [INFO] [BOT] Escucha de chats detenida.
+2026-05-31T09:40:13.430830 [WARN] Deteniendo bot desde la interfaz...
+2026-05-31T09:40:13.434876 [INFO] [BOT] Escucha de chats detenida.
+2026-05-31T09:40:13.434876 [WARN] Bot detenido (contexto cerrado).
+2026-05-31T09:40:22.739072 [WARN] [FILE_WATCHER] Observador detenido.
+2026-05-31T09:40:22.740080 [INFO] Watchdog detenido.
+2026-05-31T10:36:52.524540 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Gabriel Álvarez
+2026-05-31T10:36:52.527638 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Gabriel Álvarez
+2026-05-31T10:37:00.856003 [INFO] Iniciando bot desde la interfaz...
+2026-05-31T10:37:13.152166 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-05-31T10:37:21.088597 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-05-31T10:37:21.099119 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-05-31T10:44:14.278897 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T02:45:57.007217 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T02:46:12.089976 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T02:46:24.945513 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T02:46:24.953896 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T02:48:55.921760 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-06-01T02:48:55.923768 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-06-01T03:46:34.022415 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T03:47:21.160985 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Aonimus
+2026-06-01T03:47:21.163940 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Aonimus
+2026-06-01T03:54:27.768668 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T03:54:30.978762 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T03:54:37.860636 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T03:54:37.870286 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T03:55:26.168673 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T03:55:26.178919 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T03:55:26.188451 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T03:55:26.578449 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T03:55:34.022911 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' activado.
+2026-06-01T03:55:34.215705 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' desactivado.
+2026-06-01T03:55:35.456129 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' activado.
+2026-06-01T03:55:40.738112 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T03:55:43.307353 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T03:55:56.397567 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T03:55:56.406758 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T03:56:33.256664 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T03:56:33.275413 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T03:56:33.285095 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T03:56:33.625207 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T03:57:16.302970 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T03:57:16.304481 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T03:57:18.681257 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T03:57:18.934307 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T03:57:18.939884 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T03:57:18.943187 [WARN] No se pudo abrir chat 'Cel Negro (Tú)' para notificar técnico no registrado.
+2026-06-01T03:57:21.234257 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T03:57:37.175480 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' desactivado.
+2026-06-01T03:57:48.930947 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T03:57:48.933633 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T03:57:48.982008 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T03:58:20.112258 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T03:58:20.113709 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T03:58:20.680616 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T03:59:08.147332 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T03:59:08.148766 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T03:59:08.478289 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T03:59:14.895469 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' activado.
+2026-06-01T03:59:15.726617 [INFO] [MOTOR] Técnico 'Anonimus' desactivado.
+2026-06-01T04:00:19.157605 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\ordenes → chat: Anonimus
+2026-06-01T04:00:19.160168 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\ordenes → Anonimus
+2026-06-01T04:05:42.428529 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:05:42.430046 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T04:05:47.215294 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T04:05:47.561072 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T04:05:47.563587 [WARN] [WATCHER] No se pudo abrir chat 'Cel Negro (Tú)': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T04:05:47.565595 [WARN] No se pudo abrir chat 'Cel Negro (Tú)' para notificar técnico no registrado.
+2026-06-01T04:05:49.962637 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T04:21:36.329192 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' desactivado.
+2026-06-01T04:21:37.013386 [INFO] [MOTOR] Técnico 'Anonimus' activado.
+2026-06-01T04:21:56.880336 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T04:21:59.419869 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T04:22:08.812125 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:22:08.814136 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T04:22:09.148767 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T04:22:44.580520 [WARN] Intento 1/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-06-01T04:23:15.158969 [WARN] Intento 2/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-06-01T04:23:46.258225 [WARN] Intento 3/3 falló: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-06-01T04:23:47.787650 [ERROR] Error permanente: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-06-01T04:31:09.105929 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T04:31:09.116473 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T04:31:33.754020 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:31:33.755537 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T04:31:33.855300 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T04:32:04.162217 [INFO] [MOTOR] Técnico 'Daniel At&t (Tú)' activado.
+2026-06-01T04:32:06.472293 [INFO] [MOTOR] Técnico 'Anonimus' desactivado.
+2026-06-01T04:32:07.676182 [INFO] [MOTOR] Técnico eliminado: Anonimus
+2026-06-01T04:32:07.678510 [INFO] Técnico 'Anonimus' eliminado desde la UI.
+2026-06-01T04:32:12.730566 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T04:32:12.743446 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T04:32:12.753623 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T04:32:13.083371 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T04:32:14.608060 [WARN] No hay técnico seleccionado para eliminar.
+2026-06-01T04:32:16.932789 [INFO] [MOTOR] Técnico eliminado: Daniel At&t (Tú)
+2026-06-01T04:32:16.933309 [INFO] Técnico 'Daniel At&t (Tú)' eliminado desde la UI.
+2026-06-01T04:32:22.478119 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T04:32:24.903338 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T04:32:28.324220 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:32:28.326231 [INFO] Mensaje de prueba agregado a la cola desde la interfaz.
+2026-06-01T04:32:29.105434 [INFO] Procesando mensaje de 'Cel Negro (Tú)'
+2026-06-01T04:32:37.393025 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T04:32:37.394018 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T04:32:37.573885 [WARN] Intento 1/3 falló: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+
+2026-06-01T04:32:37.753630 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T04:32:38.073314 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T04:32:39.073784 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T04:32:40.572726 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T04:47:44.644735 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T04:48:38.715511 [INFO] [CONFIG] Configuración guardada: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\config.json
+2026-06-01T04:48:38.716513 [INFO] ✓ Configuración guardada exitosamente.
+2026-06-01T04:49:31.628871 [INFO] [MOTOR] Técnico agregado: DANIEL ALVARADO MORALES
+2026-06-01T04:49:31.632888 [INFO] Técnico agregado desde la UI.
+2026-06-01T04:49:36.484736 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T04:49:39.001246 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T04:49:50.281396 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T04:49:50.282400 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T04:50:10.420580 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T04:50:10.430620 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T04:52:21.388892 [WARN] Selecciona un técnico de la lista.
+2026-06-01T04:52:33.228901 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:52:33.231173 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T04:52:33.884071 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T04:52:58.427890 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:52:58.429071 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T04:52:59.072487 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T04:53:26.735679 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T04:53:26.736679 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T04:53:27.501630 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T04:53:29.402440 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T04:53:57.511414 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T04:53:57.520449 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T04:53:57.530505 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T04:53:57.710646 [WARN] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+2026-06-01T04:53:57.940790 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T04:53:58.211192 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T04:53:59.210145 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T04:54:00.710144 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T04:55:05.465796 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T04:55:08.248735 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T05:13:13.265119 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T05:13:13.274198 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T05:13:13.275217 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T05:21:52.507722 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T05:21:59.404352 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T05:22:02.407300 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T05:22:03.813803 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T05:22:03.816669 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T05:22:09.896416 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T05:22:09.906580 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T05:22:41.915823 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar p...
+2026-06-01T05:22:41.919376 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T05:22:41.920882 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': DANIEL ALVARADO MORALES, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Or...
+2026-06-01T05:22:41.921888 [INFO] Mensaje agregado a la cola. Total: 2
+2026-06-01T05:22:42.075676 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T05:22:42.885097 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T05:22:43.425197 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T05:23:08.783918 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': QROO0L7i1s3t6o9 6D3A5N)I:EL A...
+2026-06-01T05:23:08.784923 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T05:23:08.786047 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': LVARADO MORALES.
+
+PLANTILLA DE OBJECIÓN
+
+
+
+ ÁREA: LEON
+
+ COP...
+2026-06-01T05:23:08.788141 [INFO] Mensaje agregado a la cola. Total: 2
+2026-06-01T05:23:08.884435 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T05:23:08.885951 [INFO] Mensaje ignorado (no activa plantilla)
+2026-06-01T05:23:09.694562 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T05:23:13.802193 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T05:23:13.813569 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T05:23:13.823861 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T05:23:14.054450 [WARN] Intento 1/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T05:23:14.203770 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T05:23:14.543658 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T05:23:15.544410 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T05:23:17.044238 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T12:47:46.120638 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T12:56:59.997494 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T12:57:11.904340 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T12:57:15.752930 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T12:57:26.432967 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T12:57:26.434025 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T12:58:07.170787 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T12:58:07.179528 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T12:58:14.655674 [WARN] Selecciona un técnico de la lista.
+2026-06-01T12:58:51.797726 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': DANIEL ALVARADO MORALES, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Or...
+2026-06-01T12:58:51.801643 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T12:58:52.117678 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T12:58:52.118684 [INFO] Mensaje ignorado (no activa plantilla)
+2026-06-01T12:59:18.476523 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar p...
+2026-06-01T12:59:18.477522 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T12:59:18.936423 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:00:33.586262 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T13:00:33.588635 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T13:00:33.673337 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:00:35.643395 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T13:01:07.772143 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Listo DANIEL ALVARADO MORALES.
+
+PLANTILLA DE OBJECIÓN
+
+
+
+ ÁR...
+2026-06-01T13:01:07.775145 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T13:01:07.776145 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': O MONARCH
+
+
+
+ MEMO:
+
+no se pudo realizar por motivo de que e...
+2026-06-01T13:01:07.777145 [INFO] Mensaje agregado a la cola. Total: 2
+2026-06-01T13:01:07.802145 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:01:08.622064 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:01:21.051970 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': mbreN edceels ictloi eenlt eD:omi...
+2026-06-01T13:01:21.054938 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T13:01:21.056463 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': cilio:...
+2026-06-01T13:01:21.057452 [INFO] Mensaje agregado a la cola. Total: 2
+2026-06-01T13:01:21.611736 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:01:22.431813 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:01:22.811099 [WARN] [GEOCODER] Error geocodificando 'mbreN edceels ictloi eenlt eD:omi': Expecting value: line 1 column 1 (char 0)
+2026-06-01T13:01:22.881149 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T13:01:34.741034 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': sito el comentario o memo de objeción:...
+2026-06-01T13:01:34.742041 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T13:01:35.421168 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T13:01:36.130790 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T13:01:43.656843 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T13:01:43.670159 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-06-01T13:01:43.680733 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T13:01:43.854495 [WARN] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+    - locator resolved to <div tabindex="10" data-tab="10" role="textbox" spellcheck="true" contenteditable="true" aria-activedescendant="" aria-autocomplete="list" data-lexical-editor="true" aria-owns="emoji-suggestion" aria-placeholder="Escribe un mensaje" data-testid="conversation-compose-box-input" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" aria-label="Escribir un mensaje para el grupo Anonimus">…</div>
+  - elementHandle.type("◼ *TÉCNICO: * DANIEL ALVARADO MORALES")
+
+2026-06-01T13:01:43.860205 [WARN] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+2026-06-01T13:01:44.050202 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T13:01:44.371749 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T13:01:44.374265 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T13:01:45.370015 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T13:01:45.373551 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T13:01:46.870495 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T13:01:46.871496 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:04:09.095211 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T15:04:14.863879 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T15:04:18.547734 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T15:04:40.410294 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T15:04:40.419835 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T15:05:57.107001 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-06-01T15:05:57.117002 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T15:05:58.687384 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T15:05:58.697217 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T15:06:46.375283 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Listo DANIEL ALVARADO MORALES.
+
+PLANTILLA DE OBJECIÓN
+
+
+
+ ÁR...
+2026-06-01T15:06:46.376808 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:06:46.705707 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:07:01.114807 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': diente:...
+2026-06-01T15:07:01.115811 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:07:01.334680 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:07:38.353462 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Locator.click: Error: strict mode violation: locator("input[data-tab=\"3\"]") resolved to 2 elements:
+    1) <input value="" dir="ltr" type="text" id="_r_1gv_" data-tab="3" role="textbox" autocomplete="off" aria-label="Buscar un nombre o número" placeholder="Buscar un nombre o número" class="html-input xdj266r x14z9mp xat24cr x1lziwak xexx8yu x18d9i69 x1c1uobl x14ug900 xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1qx5ct2 xlyipyv xh8yej3 x1uvtmcs x1hcheoe x1nzty39 xkrh14z x1f6kntn xjb2p0i x8r4c90 xo1l8bm x1ic7a3i x12xpedu"/> aka get_by_role("textbox", name="Buscar un nombre o número")
+    2) <input value="" dir="ltr" id="_r_a_" type="text" data-tab="3" role="textbox" autocomplete="off" aria-label="Buscar un chat o iniciar uno nuevo" placeholder="Buscar un chat o iniciar uno nuevo" class="html-input xdj266r x14z9mp xat24cr x1lziwak xexx8yu x18d9i69 x1c1uobl x14ug900 xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1qx5ct2 xlyipyv xh8yej3 x1uvtmcs x1hcheoe x1nzty39 xkrh14z x1f6kntn xjb2p0i x8r4c90 xo1l8bm x1ic7a3i x12x…/> aka get_by_role("textbox", name="Buscar un chat o iniciar uno")
+
+Call log:
+  - waiting for locator("input[data-tab=\"3\"]")
+
+2026-06-01T15:08:07.832124 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T15:08:07.842142 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T15:08:10.491851 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T15:08:10.502225 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T15:08:43.138858 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T15:08:43.141128 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T15:09:07.028495 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:09:07.030494 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T15:09:07.270024 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:09:34.542647 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:09:34.544159 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T15:09:34.889683 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:09:36.868965 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T15:10:07.599709 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T15:10:07.618210 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-06-01T15:10:07.627759 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T15:10:07.807548 [WARN] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+    - locator resolved to <div tabindex="10" data-tab="10" role="textbox" spellcheck="true" contenteditable="true" aria-activedescendant="" aria-autocomplete="list" data-lexical-editor="true" aria-owns="emoji-suggestion" aria-placeholder="Escribe un mensaje" data-testid="conversation-compose-box-input" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" aria-label="Escribir un mensaje para el grupo Anonimus">…</div>
+  - elementHandle.type("◼ *EMPRESA:* CARSO MONARCH")
+
+2026-06-01T15:10:07.967541 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T15:10:08.310093 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:10:09.309612 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:10:10.807803 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:19:29.920382 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-01T15:19:29.922411 [INFO] Watchdog detenido.
+2026-06-01T15:26:52.571593 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T15:26:58.904607 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T15:27:11.121841 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T15:27:21.629604 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T15:27:21.638610 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T15:31:44.198610 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:31:44.199611 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T15:31:44.248724 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:31:44.838753 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T15:32:05.897615 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': TELÉFONO: 4726906482
+
+ DISTRITO: 
+
+
+
+ CLIENTE: TORRES ARRIA ...
+2026-06-01T15:32:05.899617 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:32:41.100308 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T15:32:41.116362 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-06-01T15:32:41.126396 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T15:32:41.316638 [WARN] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div[contenteditable=\"true\"][data-tab=\"10\"]")
+    - locator resolved to <div tabindex="10" data-tab="10" role="textbox" spellcheck="true" contenteditable="true" aria-activedescendant="" aria-autocomplete="list" data-lexical-editor="true" aria-owns="emoji-suggestion" aria-placeholder="Escribe un mensaje" data-testid="conversation-compose-box-input" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" aria-label="Escribir un mensaje para el grupo Anonimus">…</div>
+  - elementHandle.type("07:56 - 10:02")
+
+2026-06-01T15:32:41.436511 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T15:32:41.828497 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:32:42.826973 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:32:43.354831 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T15:32:44.326585 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:32:44.477477 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T15:32:44.486324 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T15:32:44.488325 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:32:45.636537 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T15:32:45.996698 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:32:46.556126 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T15:32:48.016518 [WARN] [WATCHER] No se encontró el buscador de WhatsApp Web.
+2026-06-01T15:32:48.017517 [WARN] No se pudo abrir chat 'Anonimus' para enviar plantilla.
+2026-06-01T15:32:52.506619 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:32:54.215991 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T15:32:54.218212 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T15:32:54.935520 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T15:32:55.406093 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T15:33:00.506524 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:33:08.506477 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:33:16.505253 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:33:24.506117 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:33:32.504109 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T15:33:33.434222 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T15:33:33.444611 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T15:33:36.899019 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T15:33:36.903851 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T15:33:37.123897 [WARN] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+2026-06-01T15:33:37.204177 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T15:33:37.625759 [WARN] Intento 2/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:33:38.625621 [WARN] Intento 3/3 falló: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:33:40.124332 [ERROR] Error permanente: Locator.click: Target page, context or browser has been closed
+2026-06-01T15:33:44.570068 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T15:33:44.571076 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T15:33:46.019936 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T15:33:48.214210 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:09:33.997143 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T16:09:40.157874 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T16:09:43.632231 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:09:47.534181 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:09:47.541901 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T16:09:52.898835 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T16:09:52.900835 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T16:11:31.585545 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:11:31.587148 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-01T16:11:31.817142 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:11:31.818660 [INFO] OS detectada: se procesará una sola vez.
+2026-06-01T16:11:33.836419 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T16:11:45.726211 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': PLANTILLA DE OBJECIÓN
+
+
+
+ *ÁREA:...
+2026-06-01T16:11:45.728719 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:12:56.242643 [INFO] Plantilla enviada. Mensaje marcado como procesado.
+2026-06-01T16:12:56.312232 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:13:10.711395 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': LEON
+ COPE: CTSIL
+ OS: QROO071369635
+ TELÉFONO: 4726906482
+ ...
+2026-06-01T16:13:10.713916 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:13:10.931265 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:13:11.021226 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Folio OS (ej. QROO071369635):...
+2026-06-01T16:13:11.023224 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:13:19.061354 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:13:33.380990 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': :...
+2026-06-01T16:13:33.385398 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:13:33.680943 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:16:17.214337 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T16:16:17.265965 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-06-01T16:16:17.288518 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T16:16:19.639694 [WARN] El bot no está activo. Inicia el bot antes de iniciar la escucha.
+2026-06-01T16:16:19.695185 [WARN] El bot no está activo. Inicia el bot antes de iniciar la escucha.
+2026-06-01T16:16:20.355215 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T16:16:22.634313 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-01T16:16:22.644313 [INFO] Watchdog detenido.
+2026-06-01T16:16:27.029757 [INFO] [MOTOR] Técnico 'Anonimus' desactivado.
+2026-06-01T16:23:28.062642 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T16:23:30.225202 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T16:23:32.702213 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:23:36.801972 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T16:23:36.865556 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T16:23:40.488914 [INFO] [MOTOR] Técnico 'Anonimus' activado.
+2026-06-01T16:23:44.391230 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:23:44.401745 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T16:24:05.038288 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': DANIEL ALVARADO MORALES, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Or...
+2026-06-01T16:24:05.041498 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:24:05.436796 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:24:05.438404 [INFO] OS detectada: se procesará una sola vez.
+2026-06-01T16:24:20.212680 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar p...
+2026-06-01T16:24:20.215192 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:24:20.865450 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:24:23.375451 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-01T16:24:36.231178 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': PLANTILLA DE OBJECIÓN
+
+
+
+ ÁREA:...
+2026-06-01T16:24:36.234189 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:25:02.336653 [INFO] Plantilla enviada. Mensaje marcado como procesado.
+2026-06-01T16:25:03.143856 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:25:18.098248 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': LEON
+
+ COPE: CTSIL
+
+ OS: QROO071369635
+
+ TELÉFONO: 472690648...
+2026-06-01T16:25:18.100350 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:25:18.596653 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:31:24.776552 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Keyboard.press: Target page, context or browser has been closed
+2026-06-01T16:31:33.379777 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:31:41.498878 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:31:49.735408 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:31:58.055605 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:32:06.337946 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:32:14.499645 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:32:22.668032 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:32:30.854376 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:32:39.489073 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T16:43:15.410159 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T16:43:20.109124 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T16:43:23.810798 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:43:31.136249 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T16:43:31.285374 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T16:43:32.531592 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:43:32.707491 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T16:44:20.669316 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': DANIEL ALVARADO MORALES, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Or...
+2026-06-01T16:44:20.671421 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:44:21.227855 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:44:21.229325 [INFO] OS detectada.
+2026-06-01T16:44:21.268008 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar p...
+2026-06-01T16:44:21.270015 [INFO] Mensaje agregado a la cola. Total: 1
+2026-06-01T16:44:30.159499 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-01T16:44:57.586011 [INFO] [WATCHER] Ciclo cancelado durante iteración.
+2026-06-01T16:44:57.597023 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T16:44:58.676173 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:44:58.686738 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T16:45:39.404256 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T16:45:39.414291 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T16:45:40.288851 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T16:45:40.293856 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T16:45:40.623673 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T16:45:45.805201 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T16:45:48.003729 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:45:52.093786 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:45:52.103290 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T16:48:06.042766 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-01T16:48:06.044767 [INFO] Watchdog detenido.
+2026-06-01T16:48:20.297411 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T16:48:20.298916 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T16:48:32.715817 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T16:48:32.725360 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T16:48:33.881793 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T16:48:33.885351 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T16:48:34.204897 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T16:48:35.030761 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T16:48:37.224937 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:48:46.304434 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:48:46.314892 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T16:49:43.361820 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Keyboard.type: Target page, context or browser has been closed
+2026-06-01T16:56:00.164244 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-01T16:56:02.451806 [INFO] Iniciando bot desde la interfaz...
+2026-06-01T16:56:04.677992 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-01T16:56:09.770601 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-01T16:56:09.771599 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-01T16:56:14.387646 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-01T16:56:14.397155 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-01T17:02:51.048292 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T17:03:00.002735 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-01T17:03:04.706652 [WARN] Deteniendo bot desde la interfaz...
+2026-06-01T17:03:04.944134 [INFO] [WATCHER] Ciclo cancelado.
+2026-06-01T17:03:04.992470 [INFO] [BOT] Escucha de chats detenida.
+2026-06-01T17:03:04.996979 [WARN] Bot detenido (contexto cerrado).
+2026-06-01T17:03:12.553216 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-01T17:03:12.557215 [INFO] Watchdog detenido.
+2026-06-04T03:46:03.130557 [INFO] [CONFIG] Configuración guardada: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\config.json
+2026-06-04T03:48:00.658244 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-04T03:54:34.981644 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T03:54:35.003359 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T03:54:35.003359 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T03:54:35.416523 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T03:55:05.631442 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-04T03:55:10.028447 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T03:55:45.782233 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T03:55:45.785753 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T03:55:48.206408 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-04T03:55:48.207919 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-04T03:55:59.450950 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T03:55:59.460642 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T03:56:03.661093 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': DANIEL ALVARADO MORALES, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Orden de Trabajo
+
+QROO...
+2026-06-04T03:56:03.663092 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T03:56:04.130466 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T03:57:36.886881 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Ayúdame con la plantilla 
+
+Comentario: no se pudo realizar por motivo de que el ...
+2026-06-04T03:57:36.888889 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T03:57:36.889888 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': DANIEL ALVARADO MORALES, 05/29/26
+
+Tipo Tarea
+
+A01LPBGPE
+
+Orden de Trabajo
+
+QROO...
+2026-06-04T03:57:36.891889 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 2
+2026-06-04T03:57:37.555877 [INFO] Mensajes combinados para 'Anonimus' (2 mensajes).
+2026-06-04T03:57:37.556877 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T03:57:44.055474 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T03:57:59.440614 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T03:57:59.464927 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T03:58:00.034848 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T03:58:06.210767 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-04T03:58:06.212278 [INFO] Watchdog detenido.
+2026-06-04T04:00:05.457527 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T04:00:05.463399 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T04:00:05.465280 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T04:00:06.120260 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T04:01:25.397742 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T04:01:25.399757 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T04:01:25.399757 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T04:01:25.399757 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T04:01:25.406808 [WARN] [WATCHER] No se pudo abrir chat 'Anonimus': 'NoneType' object has no attribute 'wait_for_timeout'
+2026-06-04T04:01:25.406808 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-04T04:01:25.406808 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T04:01:25.748310 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T04:03:28.606107 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T04:03:28.613150 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T04:03:28.613150 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T04:03:28.613150 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T04:03:55.225686 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-04T04:03:55.226677 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T04:03:55.752601 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T04:29:58.399788 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T04:29:58.405807 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T04:29:58.407813 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T04:29:58.407813 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T04:30:25.285257 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-04T04:30:29.295527 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T04:30:29.903175 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T04:31:08.979584 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T04:31:08.981590 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T04:31:08.981590 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T04:31:35.856553 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-04T04:31:40.918901 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T04:31:41.527409 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T04:32:36.894424 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T04:32:36.903127 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T04:32:36.903127 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T04:32:36.903127 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T04:33:03.362527 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: QROO071369635
+2026-06-04T04:33:07.379241 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T04:33:07.962086 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:39:49.484696 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:39:49.766522 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:39:49.766522 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:39:49.775536 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:39:55.804118 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:40:06.949544 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:40:07.367419 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:45:02.492673 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:45:02.494663 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:45:02.499863 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:45:08.640462 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:45:20.842027 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:45:21.273867 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:46:18.513199 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:46:18.528651 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:46:18.528651 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:46:18.530660 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:46:18.534962 [INFO] [CORE] Datos extraídos para 'Anonimus': {'folioOS': '', 'telefonoContrato': '', 'distrito': 'SIL0021FOA3', 'cliente': '', 'telContacto': '', 'telContactoAdicional': '', 'domicilio': '', 'direccion': '', 'ciudad': '', 'estado': '', 'codigoPostal': '', 'coordenadas': ''}
+2026-06-04T05:46:18.534962 [INFO] [CORE] Memo extraído para 'Anonimus': no se pudo realizar por motivo de que el cliente no la desea. PRUEBA E2E 4
+2026-06-04T05:46:24.769552 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:46:34.827320 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:46:35.133201 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:47:44.595800 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:47:44.601248 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:47:44.601248 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:47:44.606158 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:47:44.612435 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:47:44.619036 [INFO] [CORE] Datos extraídos para 'Anonimus': {'folioOS': '071369635', 'telefonoContrato': '4726906482', 'distrito': 'SIL0021FOA3', 'cliente': 'TORRES ARRIAGA MARIA ELENA', 'telContacto': '4721401354', 'telContactoAdicional': '4721879258', 'domicilio': '70, SILAO, GUANAJUATO', 'direccion': '', 'ciudad': 'SILAO', 'estado': 'GUANAJUATO', 'codigoPostal': '', 'coordenadas': ''}
+2026-06-04T05:47:44.619036 [INFO] [CORE] Memo extraído para 'Anonimus': no se pudo realizar por motivo de que el cliente no la desea. PRUEBA E2E 5
+2026-06-04T05:48:21.199826 [INFO] [PROCESSED] Mensaje registrado para 'Anonimus' (enviado).
+2026-06-04T05:48:21.209426 [INFO] [PROCESSED] Mensaje registrado para 'Anonimus' (enviado).
+2026-06-04T05:48:21.209426 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: 071369635
+2026-06-04T05:48:27.234162 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:48:27.510515 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:49:40.491921 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:49:40.498333 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:49:40.498333 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:49:40.508908 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:49:40.508908 [INFO] [CORE] Mensaje duplicado ignorado en 'Anonimus'.
+2026-06-04T05:49:45.519908 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:49:45.787535 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:50:37.290119 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:50:37.295727 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:50:37.295727 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:50:37.300223 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:50:37.308062 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:50:37.318634 [INFO] [CORE] Datos extraídos para 'Anonimus': {'folioOS': '071369636', 'telefonoContrato': '4726906482', 'distrito': 'SIL0021FOA3', 'cliente': 'TORRES ARRIAGA MARIA ELENA', 'telContacto': '4721401354', 'telContactoAdicional': '4721879258', 'domicilio': '70, SILAO, GUANAJUATO', 'direccion': '', 'ciudad': 'SILAO', 'estado': 'GUANAJUATO', 'codigoPostal': '', 'coordenadas': ''}
+2026-06-04T05:50:37.318634 [INFO] [CORE] Memo extraído para 'Anonimus': no se pudo realizar por motivo de que el cliente no la desea. PRUEBA E2E 7
+2026-06-04T05:51:13.060282 [INFO] [PROCESSED] Mensaje registrado para 'Anonimus' (enviado).
+2026-06-04T05:51:13.071862 [INFO] [PROCESSED] Mensaje registrado para 'Anonimus' (enviado).
+2026-06-04T05:51:13.072859 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: 071369636
+2026-06-04T05:51:18.084430 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:51:18.433478 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:52:17.778285 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:52:17.782438 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:52:17.786341 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:52:17.798399 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:52:17.804802 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:53:17.142225 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T05:53:17.147917 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T05:53:17.149923 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:53:17.152280 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T05:53:17.160033 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T05:53:17.161038 [INFO] [CORE] Datos extraídos para 'Anonimus': {'folioOS': '071369638', 'telefonoContrato': '4726906482', 'distrito': 'SIL0021FOA3', 'cliente': 'TORRES ARRIAGA MARIA ELENA', 'telContacto': '4721401354', 'telContactoAdicional': '4721879258', 'domicilio': '70, SILAO, GUANAJUATO', 'direccion': '', 'ciudad': 'SILAO', 'estado': 'GUANAJUATO', 'codigoPostal': '', 'coordenadas': ''}
+2026-06-04T05:53:17.161038 [INFO] [CORE] Memo extraído para 'Anonimus': no se pudo realizar por motivo de que el cliente no la desea. PRUEBA E2E 9
+2026-06-04T05:53:53.236965 [INFO] [PROCESSED] Mensaje registrado para 'Anonimus' (enviado).
+2026-06-04T05:53:53.246381 [INFO] [PROCESSED] Mensaje registrado para 'Anonimus' (enviado).
+2026-06-04T05:53:53.246381 [INFO] Plantilla completada para 'DANIEL ALVARADO MORALES' | Folio: 071369638
+2026-06-04T05:53:58.265333 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T05:53:58.599344 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T05:58:37.578288 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-04T05:58:39.703168 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T05:58:48.211374 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-04T05:58:48.213701 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-04T05:59:00.431852 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T05:59:00.442053 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T05:59:03.356505 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T06:01:19.286638 [INFO] [WATCHER] Nuevo mensaje en 'Anonimus': Jorge Tec CERVANTES
+15:05...
+2026-06-04T06:01:19.288640 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T06:01:47.604548 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T06:01:47.625161 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:01:47.626337 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T06:01:48.322260 [WARN] El bot no está activo. Inicia el bot antes de iniciar la escucha.
+2026-06-04T06:01:52.018565 [INFO] [MOTOR] Técnico 'Anonimus' desactivado.
+2026-06-04T06:01:54.524862 [INFO] [MOTOR] Técnico 'Anonimus' activado.
+2026-06-04T06:01:55.695710 [INFO] [MOTOR] Técnico 'Gabriel Álvarez' activado.
+2026-06-04T06:01:57.445097 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T06:02:06.317336 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T06:02:50.972486 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T06:02:50.983008 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T06:02:56.002339 [INFO] [WATCHER] Nuevo mensaje en 'Gabriel Álvarez': Estoy cerca de mi casa
+20:22...
+2026-06-04T06:02:56.003339 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T06:02:56.004340 [INFO] [WATCHER] Nuevo mensaje en 'Gabriel Álvarez': 20:24...
+2026-06-04T06:02:56.005321 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 2
+2026-06-04T06:02:56.006319 [INFO] [WATCHER] Nuevo mensaje en 'Gabriel Álvarez': Ya no hay vulcanizadora abierta la voy a mover así y ya mañana pues veo cómo cóm...
+2026-06-04T06:02:56.007320 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 3
+2026-06-04T06:02:56.008319 [INFO] [WATCHER] Nuevo mensaje en 'Gabriel Álvarez': Montiel Fotografía y Video
+Calle Río Mayo 28, Silao, 36112, Gto, MX
+20:24...
+2026-06-04T06:02:56.008319 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 4
+2026-06-04T06:03:24.368990 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-04T06:03:24.370185 [INFO] Watchdog detenido.
+2026-06-04T06:05:57.705308 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T06:05:57.725340 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:05:58.065743 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T06:06:00.773244 [INFO] [MOTOR] Técnico 'Gabriel Álvarez' desactivado.
+2026-06-04T06:06:02.428115 [INFO] [MOTOR] Técnico 'Anonimus' desactivado.
+2026-06-04T06:06:17.800094 [INFO] [MOTOR] Técnico 'Anonimus' activado.
+2026-06-04T06:06:23.527952 [INFO] [MOTOR] Técnico 'Anonimus' desactivado.
+2026-06-04T06:06:26.203444 [INFO] [MOTOR] Técnico 'Anonimus' activado.
+2026-06-04T06:07:04.334301 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T06:07:15.541990 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T06:07:15.552208 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T06:07:18.425230 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T06:07:41.554833 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T06:07:41.556979 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-04T06:07:41.978660 [INFO] Procesando mensaje de 'Anonimus'
+2026-06-04T06:07:41.983661 [INFO] [CORE] Datos extraídos para 'Anonimus': {'folioOS': '071369635', 'telefonoContrato': '4726906482', 'distrito': '', 'cliente': 'TORRES ARRIAGA MARIA ELENA', 'telContacto': '4721401354', 'telContactoAdicional': '4721879258', 'domicilio': 'CAL NTRA. SENORA DE LOS DOLORES 70 GUADALUPE, 70, Ciudad, SILAO, GUANAJUATO, 36142', 'direccion': 'CAL NTRA. SENORA DE LOS DOLORES 70 GUADALUPE', 'ciudad': 'SILAO', 'estado': 'GUANAJUATO', 'codigoPostal': '36142', 'coordenadas': ''}
+2026-06-04T06:07:41.985170 [INFO] [CORE] Memo extraído para 'Anonimus': no se pudo realizar por motivo de que el cliente no la desea
+2026-06-04T06:08:49.824735 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T06:08:49.848828 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:08:50.168277 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T06:09:02.915930 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T06:09:08.417817 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T06:09:08.427573 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T06:09:11.690950 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T06:09:23.645234 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T06:09:23.647266 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-04T06:09:38.076562 [INFO] [CORE] Se solicitó geolocalización manual a 'Anonimus'.
+2026-06-04T06:09:43.282449 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T06:09:43.284449 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-04T06:10:25.020037 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T06:10:25.044318 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:10:25.284529 [WARN] [RETRY] Intento 1/3 falló: Keyboard.press: Target page, context or browser has been closed
+2026-06-04T06:10:25.374504 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T06:10:25.785793 [WARN] [RETRY] Intento 2/3 falló: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:10:26.785151 [WARN] [RETRY] Intento 3/3 falló: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:10:28.033215 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T06:10:28.284434 [ERROR] [RETRY] Error permanente: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:10:28.285434 [ERROR] [BOT] Error enviando texto: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:10:28.286436 [ERROR] [CORE] No se pudo enviar mensaje a 'Anonimus'.
+2026-06-04T06:10:40.496674 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T06:11:45.506963 [INFO] [QUEUE] Mensaje agregado a la cola. Total: 1
+2026-06-04T06:11:45.509231 [INFO] Mensaje de prueba agregado a la cola para 'Anonimus' desde la interfaz.
+2026-06-04T06:12:21.184987 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T06:12:21.189500 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:12:21.359825 [WARN] [RETRY] Intento 1/3 falló: Locator.type: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("footer div[contenteditable='true'][role='textbox']").last
+    - locator resolved to <div tabindex="10" data-tab="10" role="textbox" spellcheck="true" contenteditable="true" aria-activedescendant="" aria-autocomplete="list" data-lexical-editor="true" aria-owns="emoji-suggestion" aria-placeholder="Escribe un mensaje" data-testid="conversation-compose-box-input" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" aria-label="Escribir un mensaje para el grupo Anonimus">…</div>
+  - elementHandle.type("ID de actividad")
+
+2026-06-04T06:12:21.490007 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T06:12:21.871311 [WARN] [RETRY] Intento 2/3 falló: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:12:22.869404 [WARN] [RETRY] Intento 3/3 falló: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:12:24.370004 [ERROR] [RETRY] Error permanente: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:12:24.371002 [ERROR] [BOT] Error enviando texto: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-06-04T06:12:24.372021 [ERROR] [CORE] No se pudo enviar mensaje a 'Anonimus'.
+2026-06-04T06:24:34.591699 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T06:24:41.070992 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T06:24:41.080525 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T06:24:43.973280 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T06:28:23.751862 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:28:24.381267 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T06:28:24.382274 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T06:28:24.751707 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T14:58:32.872338 [INFO] [CONFIG] Cargada configuración desde config.json
+2026-06-04T14:58:37.123697 [INFO] Iniciando bot desde la interfaz...
+2026-06-04T14:58:47.886966 [INFO] [FILE_WATCHER] Monitoreando: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → chat: Anonimus
+2026-06-04T14:58:47.888399 [INFO] Watchdog iniciado: C:\Users\monar\OneDrive\Escritorio\BOT PLANTILLA\ordenes → Anonimus
+2026-06-04T14:59:17.152376 [WARN] [BOT] Selector de chat no disponible aún: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[contenteditable='true']") to be visible
+
+2026-06-04T14:59:17.158010 [INFO] Bot iniciado. WhatsApp Web cargado (sesión persistente).
+2026-06-04T14:59:31.100981 [INFO] [BOT] Escucha de chats iniciada en segundo plano.
+2026-06-04T14:59:31.111879 [INFO] [WATCHER] Ciclo de escucha iniciado.
+2026-06-04T15:03:07.366696 [WARN] Deteniendo bot desde la interfaz...
+2026-06-04T15:03:07.392755 [INFO] [BOT] Escucha de chats detenida.
+2026-06-04T15:03:07.825469 [WARN] El bot no está activo. Inicia el bot antes de iniciar la escucha.
+2026-06-04T15:03:08.943027 [WARN] Bot detenido (contexto cerrado).
+2026-06-04T15:03:09.941327 [WARN] [FILE_WATCHER] Observador detenido.
+2026-06-04T15:03:09.943327 [INFO] Watchdog detenido.

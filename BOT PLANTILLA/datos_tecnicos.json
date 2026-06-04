@@ -1,0 +1,58 @@
+[
+  {
+    "nombreChat": "Cesar Lara Mendez",
+    "nombreTecnico": "CESAR LARA MENDEZ",
+    "expediente": "00664601",
+    "telefono": "4741766560",
+    "cope": "CTMAE",
+    "activo": false
+  },
+  {
+    "nombreChat": "Gabriel Álvarez",
+    "nombreTecnico": "GABRIEL ÁLVAREZ",
+    "expediente": "00548221",
+    "telefono": "4434185910",
+    "cope": "CTSIL",
+    "activo": false
+  },
+  {
+    "nombreChat": "Jorge Tec CERVANTES",
+    "nombreTecnico": "JORGE ANTONIO CERVANTES YANEZ",
+    "expediente": "01024221",
+    "telefono": "4623248166",
+    "cope": "CTSIL",
+    "activo": false
+  },
+  {
+    "nombreChat": "TEC CESAR HERNANDEZ SILAO",
+    "nombreTecnico": "CESAR HERNANDEZ",
+    "expediente": "00635471",
+    "telefono": "4731146977",
+    "cope": "CTSIL",
+    "activo": false
+  },
+  {
+    "nombreChat": "FER SILAO",
+    "nombreTecnico": "FER SILAO",
+    "expediente": "",
+    "telefono": "4731320532",
+    "cope": "CTSIL",
+    "activo": false
+  },
+  {
+    "nombreChat": "Mario Aguirre",
+    "nombreTecnico": "MARIO AGUIRRE",
+    "expediente": "",
+    "telefono": "4731484317",
+    "cope": "CTSIL",
+    "activo": false
+  },
+  {
+    "nombreChat": "Anonimus",
+    "nombreTecnico": "DANIEL ALVARADO MORALES",
+    "expediente": "7615721",
+    "telefono": "4435283304",
+    "cope": "CTSIL",
+    "activo": true
+  }
+]

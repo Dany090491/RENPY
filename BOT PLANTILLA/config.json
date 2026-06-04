@@ -1,0 +1,10 @@
+{
+    "area": "LEON",
+    "supervisor": "DANIEL ALVARADO MORALES",
+    "empresa": "CARSO MONARCH",
+    "delay_ms": 300,
+    "reintentos": 3,
+    "carpeta_watchdog": "C:\\Users\\monar\\OneDrive\\Escritorio\\BOT PLANTILLA\\ordenes",
+    "chat_archivos": "Anonimus",
+    "perfil_playwright": "C:\\Users\\monar\\AppData\\Local\\AUTOMONARCH\\PlaywrightWhatsApp"
+}
